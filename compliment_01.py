@@ -14,6 +14,10 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+compliment1 = input('Would you like a compliment?')
+if compliment1 == 'yes':
+        print('You have wonderful eyes.')
+print('Thank you for playing.')
 
 
 
@@ -66,11 +70,12 @@ Thank you for playing.
 '''
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
-
+Perhaps a 2-3. Once you get the fundamentals of if statements they feel very straightforward
 
 
 
 2. What was the hardest part of this lab?
+Ensuring the code answered exactly as expected
 
 
 
